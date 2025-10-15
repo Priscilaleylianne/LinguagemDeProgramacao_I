@@ -53,23 +53,6 @@ Esta competência visa fortalecer tanto o **domínio técnico da linguagem C++**
 - Implementação de **getters** e **setters**.  
 
 ---
-
-## 🧩 Estrutura do Projeto
-
-```bash
-📁 Linguagem-Programacao-I-C++
-├── 📂 src/               # Códigos-fonte desenvolvidos em aula
-│   ├── introducao/
-│   ├── classes_objetos/
-│   ├── heranca/
-│   ├── polimorfismo/
-│   └── encapsulamento/
-├── 📂 docs/              # Materiais teóricos e anotações
-├── 📂 atividades/        # Exercícios e práticas avaliativas
-├── 📄 README.md          # Descrição do projeto
-└── 📄 LICENSE (opcional)
-
----
 # 💻 Linguagem de Programação I – C++
 
 Repositório dedicado à disciplina de **Linguagem de Programação I**, com foco em **Programação Orientada a Objetos em C++**.  
@@ -153,3 +136,20 @@ Este repositório é de uso **educacional**, podendo ser **compartilhado e adapt
 
 🧩 **“Aprender C++ é desenvolver a base lógica que move o mundo da tecnologia.”**  
 💡 *Desenvolva com curiosidade, colabore com confiança e programe com propósito!*
+
+---
+
+## 🧩 Estrutura do Projeto
+
+```bash
+📁 Linguagem-Programacao-I-C++
+├── 📂 src/               # Códigos-fonte desenvolvidos em aula
+│   ├── introducao/
+│   ├── classes_objetos/
+│   ├── heranca/
+│   ├── polimorfismo/
+│   └── encapsulamento/
+├── 📂 docs/              # Materiais teóricos e anotações
+├── 📂 atividades/        # Exercícios e práticas avaliativas
+├── 📄 README.md          # Descrição do projeto
+└── 📄 LICENSE (opcional)
