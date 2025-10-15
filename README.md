@@ -69,7 +69,7 @@ Esta competência visa fortalecer tanto o **domínio técnico da linguagem C++**
 ├── 📄 README.md          # Descrição do projeto
 └── 📄 LICENSE (opcional)
 
-
+---
 # 💻 Linguagem de Programação I – C++
 
 Repositório dedicado à disciplina de **Linguagem de Programação I**, com foco em **Programação Orientada a Objetos em C++**.  
