@@ -57,6 +57,17 @@ Esta competência visa fortalecer tanto o **domínio técnico da linguagem C++**
 
 Repositório dedicado à disciplina de **Linguagem de Programação I**, com foco em **Programação Orientada a Objetos em C++**.  
 Contém **materiais de aula**, **exercícios práticos**, **projetos colaborativos** e **avaliações**, desenvolvidos no contexto do curso **Técnico em Informática**.
+---
+
+# Avaliações 
+- 30/10/2025 - 1º Avaliação Parcial AV1: Avaliação escrita em pares. Pontuação (0 – 10 pontos).
+- 05/11/2025 - Recuperação Paralela RP1: Avaliação escrita e individual. Pontuap-ção (0 – 10 pontos).
+- 13/11/2025 - 2º Avaliação Parcial AV2: Avaliação escrita e individual. Pontuação (0 – 10 pontos).
+- 19/11/2025 - Recuperação Paralela RP2: Avaliação escrita e individual. Pontuação (0 – 10 pontos).
+- 27/11/2025 - 3º Avaliação Parcial AV3: Avaliação escrita em pares. Pontuação (0 – 10 pontos).
+- 03/12/2025 - Recuperação Paralela Final RPF3: Avaliação escrita e individual. Pontuação (0 – 10 pontos).
+- 10/12/2025 - 4º Avaliação Final: Trabalho em grupo:. Pontuação (0 – 10 pontos).
+- 11/12/2025 - Recuperação Paralela Final RPF: Avaliação escrita e individual. Pontuação (0 – 10 pontos).
 
 ---
 
